@@ -1,1 +1,14 @@
 # job_file_print
+
+Params in file:
+
+set DEVICE_NAME=PICsRGB
+
+set SIZE_NAME=2R_10x15
+set PRINT_CNT=1
+set BACK_PRINT=FREE
+set BACK_PRINT_LINE_1=
+set BACK_PRINT_LINE_2=
+set RESIZE=FILLIN
+set DSC_CHK=FALSE
+
