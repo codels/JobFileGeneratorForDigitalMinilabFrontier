@@ -3,7 +3,7 @@
 ## Customizable settings
 
 * set **DEVICE_NAME** - *Color space of Frontier (“PICsRGB” or “PICPD”)*
-* set **IZE_NAME** - *Name of print size (Selected from FdiaDevice.ini*
+* set **SIZE_NAME** - *Name of print size (Selected from FdiaDevice.ini)*
 * set **PRINT_CNT** - *Number of prints (1-999)*
 * set **BACK_PRINT**
   * FREE - *The text strings of the 1st line and 2nd line entered in “Back Print” in the “AdministrativeSettings” screen are printed.*
